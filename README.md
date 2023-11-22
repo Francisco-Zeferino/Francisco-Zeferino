@@ -11,8 +11,8 @@
 
 - Currently i'm doing 42 Lisboa Common Core
 
-<h4> :man_technologist: Aspiring Web Developer</h4>
-- Currently learning ReactJS and TailwindCSS
+<h4> :man_technologist: Aspiring Software Developer</h4>
+- Currently learning C++
 </div>
 <div id="tools">
 <h2>:hammer_and_wrench: Skills</h2>
@@ -20,12 +20,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C" **alt="C" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    
-<h3> Front-End Development</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
 </div>
 
 <h3>:link: Links </h3>
