@@ -9,7 +9,7 @@
 
 - 42 is a private institution of higher education in computer science founded by Xavier Niel, Nicolas Sadirac, Kwame Yamgnane, and Florian Bucher. The school opened in Paris in 2013. The school does not have any professors and is open 24/7. Students are trained through peer-to-peer pedagogy, and project-based learning.
 
-- Currently i'm doing 42 Lisboa Common Core
+- Currently I'm doing 42 Lisboa Common Core
 
 <h4> :man_technologist: Aspiring Software Developer</h4>
 - Currently learning C++
