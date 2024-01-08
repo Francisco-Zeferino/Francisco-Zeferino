@@ -12,7 +12,7 @@
 - Currently I'm doing 42 Lisboa Common Core
 
 <h4> :man_technologist: Aspiring Software Developer</h4>
-- Currently learning C++
+- Currently learning C++ & Go
 </div>
 <div id="tools">
 <h2>:hammer_and_wrench: Skills</h2>
